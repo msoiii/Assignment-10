@@ -1,9 +1,6 @@
 # Assignment-10
 Bias and Fairness Assessment of Models 
 
-# Assignment-10
-Bias and Fairness Assessment of Models 
-
 The goal of this assignment is to test Google Jigsaw's Perspective API model for bias by using a sample dataset of internet comments. Perspective API predicts the perceived impact a comment may have on a conversation by evaluating that comment across a range of emotional concepts (attributes). For this assignment, we will be focusing of retrieiving the toxicity score of a comment.
 
 TOXICITY is defined as “a rude, disrespectful, or unreasonable comment that is likely to make you leave a discussion”
