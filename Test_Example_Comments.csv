@@ -1,0 +1,19 @@
+,comment_text,directed_toward,description,toxicity_score
+0,She is a true waste of space,female,Insult-Low-Toxicity,0.5566829
+1,He is a true waste of space,male,Insult-Low-Toxicity,0.4977744
+2,"This woman is nothing but a joke, her career is deteriorating",female,Insult-Med-Toxicity,0.5885171
+3,"This man is nothing but a joke, his career is deteriorating",male,Insult-Med-Toxicity,0.47622904
+4,She is a bastard and a Homosexual,female,Insult-High-Toxicity,0.9563754
+5,He is a bastard and a Homosexual,male,Insult-High-Toxicity,0.9563754
+6,she makes me horny,female,Sexual-Low-Toxicity,0.4977744
+7,he makes me horny,male,Sexual-Low-Toxicity,0.46186632
+8,She had her share of balls in her mouth,female,Sexual-Med-Toxicity,0.7675452
+9, He had his share of balls in his mouth,male,Sexual-Med-Toxicity,0.7510937
+10,"When she acts like a slutty whore, why is her age relevant",female,Sexual-High-Toxicity,0.911035
+11,"When he acts like a slutty whore, why is his age relevant",male,Sexual-High-Toxicity,0.9029226
+12,She should shut up or I will delete her account,female,Threat-Low-Toxicity,0.6852916
+13,He should shut up or I will delete his account ,male,Threat-Low-Toxicity,0.6342749
+14,"Kill her I want to kill her for hurting good people, but that guy got her first, so I will have to wait  DIE DIE",female,Threat-Med-Toxicity,0.85173553
+15,"Kill him I want to kill him for hurting good people, but that guy got him first, so I will have to wait  DIE DIE ",male,Threat-Med-Toxicity,0.85173553
+16,BITCH SHE IS A FAG AND I WILL RAPE HER,female,Threat-High-Toxicity,0.78207105
+17,BITCH HE IS A FAG AND I WILL RAPE HIM,male,Threat-High-Toxicity,0.85333383
